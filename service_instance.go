@@ -3,7 +3,7 @@ package main
 import (
         "encoding/json"
         "errors"
-        "github.com/globocom/config"
+        "github.com/tsuru/config"
         "os/exec"
 )
 
